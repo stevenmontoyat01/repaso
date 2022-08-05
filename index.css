@@ -1,0 +1,10 @@
+h1{
+    color: #ff0000;
+}
+
+button{
+    color: #fff;
+    background-color: #ff0000;
+    border: none;
+    padding: 10px;
+}
